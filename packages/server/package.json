@@ -1,0 +1,13 @@
+{
+  "name": "@workspaces-lerna/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo testing server"
+  },
+  "dependencies": {
+    "@workspaces-lerna/common": "*"
+  }
+}
