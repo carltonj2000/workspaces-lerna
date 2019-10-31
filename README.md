@@ -12,5 +12,3 @@ The code in this repository is based on the following:
   via the
   [vscode-commitizen](https://github.com/KnisterPeter/vscode-commitizen)
   extension.
-
-Test update for
