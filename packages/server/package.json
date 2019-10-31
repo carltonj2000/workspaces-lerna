@@ -1,6 +1,6 @@
 {
   "name": "@workspaces-lerna/server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -8,6 +8,6 @@
     "test": "echo testing server"
   },
   "dependencies": {
-    "@workspaces-lerna/common": "*"
+    "@workspaces-lerna/common": "^1.1.0"
   }
 }
